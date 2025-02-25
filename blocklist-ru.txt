@@ -9129,3 +9129,6 @@
 0.0.0.0 l0iwe39iikh34bc0.ru
 0.0.0.0 mailget.net
 0.0.0.0 vboro.de
+0.0.0.0 avr.i-trailer.ru
+0.0.0.0 mob.i-trailer.ru
+0.0.0.0 videoroll.net
