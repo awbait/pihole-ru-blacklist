@@ -9134,3 +9134,10 @@
 0.0.0.0 avrg.i-trailer.ru
 0.0.0.0 videoroll.net
 0.0.0.0 content.adriver.ru
+0.0.0.0 ad.mail.ru
+0.0.0.0 ad.adriver.ru
+0.0.0.0 creative.rutarget.ru
+0.0.0.0 sdk.adiam.tech
+0.0.0.0 avr.tivizor.ru
+0.0.0.0 a.suprion.ru
+0.0.0.0 exchange.buzzoola.com
